@@ -3,7 +3,7 @@ import { Heart } from 'lucide-react';
 
 function App() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-gradient-to-br from-green-50 to-green-200 flex items-center justify-center p-4">
       <div className="bg-white rounded-xl shadow-lg p-8 max-w-md w-full transform transition-all duration-300 hover:shadow-xl hover:-translate-y-1">
         <div className="flex flex-col items-center text-center">
           <Heart className="text-pink-500 mb-4 h-10 w-10" />
