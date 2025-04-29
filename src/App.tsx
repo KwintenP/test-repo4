@@ -9,7 +9,9 @@ function App() {
           <Heart className="text-pink-500 mb-4 h-10 w-10" />
           <h2 className="text-2xl font-bold text-gray-800 mb-2">Perfectly Centered</h2>
           <p className="text-gray-600 leading-relaxed">
-            This content is precisely centered both horizontally and vertically within the viewport.
+            This content is precisely centered both horizo
+            
+            ntally and vertically within the viewport.
             Hover to see a subtle animation effect.
           </p>
           <div className="mt-6 w-full h-1 bg-gradient-to-r from-pink-300 via-purple-400 to-indigo-500 rounded-full"></div>
